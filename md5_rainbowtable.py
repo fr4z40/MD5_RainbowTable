@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# Author: Eduardo Frazão  ( http://github.com/fr4z40 )
+# Author: Eduardo Frazão
+#   * http://github.com/fr4z40
+#   * https://bitbucket.org/fr4z40
 # 16/07/2014
 
 from hashlib import md5
